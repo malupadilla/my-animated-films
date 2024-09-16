@@ -12,7 +12,7 @@ const minusButton = document.getElementById('minus');
 const resetButton = document.getElementById('reset');
 
 const updateValue = () => {
-    value.innerHTML = count4;
+    value.innerHTML = count;
 };
 
 updateValue(); /* Clique Normal */
